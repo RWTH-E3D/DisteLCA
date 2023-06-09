@@ -1,0 +1,31 @@
+process,module,component,component quantity,cost group DIN 276,mass in kg,unit for component quantity and amount of component on quarter scale,amount building element on quarter scale,mass on quarter scale in kg
+Transportbeton C20/25,A1 - A3 Aggregation,IBO_GDm_01,496.6,351 Deckenkonstruktionen,178140.35, m²,8938.800000000001,3206526.3000000003
+Mauersteine aus Leichtbeton aus natürlichen Zuschlägen - Hohlblock -,A1 - A3 Aggregation,Mauerziegel_270mm_E,447.1,331 Tragende Außenwände,96573.6, m²,8047.8,1738324.8
+Transportbeton C20/25,A1 - A3 Aggregation,G_Bodenplatte_Stahlbeton-Ortbauweise_C25/30_250mm_2%,248.3,324 Unterböden und Bodenplatten,86140.24, m²,4469.400000000001,1550524.32
+Transportbeton C20/25,A1 - A3 Aggregation,IBO_DAm_07,248.3,361 Dachkonstruktionen,82624.31, m²,4469.400000000001,1487237.58
+Zementestrich,A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,248.3,325 Bodenbeläge,38734.8, m²,4469.400000000001,697226.4
+Bewehrungsstahl,A1 - A3 Aggregation,IBO_GDm_01,496.6,351 Deckenkonstruktionen,31186.48, m²,8938.800000000001,561356.64
+Estrichmörtel-Zementestrich,A1 - A3 Aggregation,IBO_KDo_01,496.6,352 Deckenbeläge,29796.0, m²,8938.800000000001,536328.0
+Kies 2/32 getrocknet,A1 - A3 Aggregation,IBO_DAm_07,248.3,363 Dachbeläge,27561.3, m²,4469.400000000001,496103.39999999997
+Bewehrungsstahl,A1 - A3 Aggregation,IBO_DAm_07,248.3,361 Dachkonstruktionen,17542.4, m²,4469.400000000001,315763.2
+Kunstharzputz,A1 - A3 Aggregation,IBO_GDm_01,496.6,351 Deckenkonstruktionen,12663.3, m²,8938.800000000001,227939.4
+Kunstharzputz,A1 - A3 Aggregation,WDVS (Roe),447.1,"335 Außenwandbekleidungen, außen",11401.05, m²,8047.8,205218.9
+Gipsputz (Gips),A1 - A3 Aggregation,Gips-Putz/Anstrich,447.1,"336 Außenwandbekleidungen, innen",8047.8, m²,8047.8,144860.4
+Bewehrungsstahl,A1 - A3 Aggregation,G_Bodenplatte_Stahlbeton-Ortbauweise_C25/30_250mm_2%,248.3,324 Unterböden und Bodenplatten,5847.47, m²,4469.400000000001,105254.46
+Kunstharzestrich,A1 - A3 Aggregation,WDVS (Roe),447.1,"335 Außenwandbekleidungen, außen",3219.12, m²,8047.8,57944.159999999996
+Kalk-Gips-Innenputz,A1 - A3 Aggregation,IBO_DAm_07,248.3,361 Dachkonstruktionen,2234.7, m²,4469.400000000001,40224.6
+Voranstrich (Kunstharz),A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,248.3,325 Bodenbeläge,1924.33, m²,4469.400000000001,34637.94
+Isolierglas 2-Scheiben,A1 - A3 Aggregation,Fenster 3,31.0,334 Außentüren und -fenster,1737.2, Stück,558.0,31269.600000000002
+"Bitumenbahnen V 60 (Dicke 0,005 m)",A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,248.3,325 Bodenbeläge,1241.5, m²,4469.400000000001,22347.0
+"Linoleum (Dicke 0,0025 m)",A1 - A3 Aggregation,IBO_KDo_01,496.6,352 Deckenbeläge,1191.84, m²,8938.800000000001,21453.12
+Mineralwolle (Boden-Dämmung),A1 - A3 Aggregation,IBO_KDo_01,496.6,352 Deckenbeläge,844.22, m²,8938.800000000001,15195.960000000001
+Blendrahmen PVC-U,A1 - A3 Aggregation,Fenster 3,31.0,334 Außentüren und -fenster,611.07, Stück,558.0,10999.26
+XPS-Dämmstoff,A1 - A3 Aggregation,IBO_DAm_07,248.3,363 Dachbeläge,476.74, m²,4469.400000000001,8581.32
+"Bitumenbahnen PYE PV 200 S5 (ungeschiefert) (Dicke 0,004 m)",A1 - A3 Aggregation,IBO_DAm_07,248.3,363 Dachbeläge,323.41, m²,4469.400000000001,5821.38
+XPS-Dämmstoff,A1 - A3 Aggregation,G_Bodenplatte_Stahlbeton-Ortbauweise_C25/30_250mm_2%,248.3,324 Unterböden und Bodenplatten,317.82, m²,4469.400000000001,5720.76
+"Elastomer Fugenbänder, Polyurethan",A1 - A3 Aggregation,Fenster 3,31.0,334 Außentüren und -fenster,233.99, Stück,558.0,4211.82
+Innenfarbe Dispersionsfarbe scheuerfest,A1 - A3 Aggregation,Gips-Putz/Anstrich,447.1,"336 Außenwandbekleidungen, innen",209.24, m²,8047.8,3766.32
+PE/PP Vlies,A1 - A3 Aggregation,IBO_KDo_01,496.6,352 Deckenbeläge,197.07, m²,8938.800000000001,3547.2599999999998
+PE-HD mit PP-Vlies zur Abdichtung,A1 - A3 Aggregation,IBO_DAm_07,248.3,363 Dachbeläge,98.33, m²,4469.400000000001,1769.94
+"PE-Noppenfolie zur Abdichtung (Dicke 0,00125 m)",A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,248.3,325 Bodenbeläge,47.67, m²,4469.400000000001,858.0600000000001
+Flügelrahmen PVC-U,A1 - A3 Aggregation,Fenster 3,31.0,334 Außentüren und -fenster,0.0, Stück,558.0,0.0

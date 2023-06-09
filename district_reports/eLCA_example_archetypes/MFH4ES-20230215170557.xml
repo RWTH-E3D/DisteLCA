@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elca xmlns="https://www.bauteileditor.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.bauteileditor.de https://www.bauteileditor.de/docs/1.3/elca_export.xsd" schemaVersion="1.3">
+  <project processDbUuid="4fb60595-6b0d-4c4f-af9d-403df2bcaf30" lifeTime="50" constrMeasure="1" constrClassRefNum="6111">
+    <projectInfo>
+      <name><![CDATA[MFH4ES]]></name>
+      <description><![CDATA[]]></description>
+      <projectNr><![CDATA[]]></projectNr>
+    </projectInfo>
+    <projectVariants>
+      <variant phaseIdent="VORPL" isCurrent="true">
+        <name><![CDATA[Vorplanung]]></name>
+        <location>
+          <street><![CDATA[]]></street>
+          <postcode>12345</postcode>
+          <city><![CDATA[]]></city>
+          <country><![CDATA[]]></country>
+        </location>
+        <construction isExtantBuilding="false">
+          <grossFloorSpace>743.53</grossFloorSpace>
+          <netFloorSpace>632</netFloorSpace>
+          <floorSpace/>
+          <propertySize/>
+          <livingSpace/>
+        </construction>
+        <elements>
+          <composite uuid="ed3e311b-ecff-4cdc-a5e2-e515556a1f49" din276Code="320" quantity="355" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[Boden 3]]></name>
+              <description><![CDATA[]]></description>
+            </elementInfo>
+            <elements>
+              <referenceToElement position="1" uuid="c1eb38e9-ed86-4df4-beaa-7c098443fb05"/>
+              <referenceToElement position="2" uuid="3780297a-6942-4166-ae10-1092a7fdaf92"/>
+            </elements>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.oz">
+                <caption><![CDATA[OZ]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </composite>
+          <element uuid="c1eb38e9-ed86-4df4-beaa-7c098443fb05" din276Code="325" quantity="355" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[G_Voranstrich_Kunstharz_5mm]]></name>
+              <description><![CDATA[Generischer Datensatz, Voranstrich aus Kunstharz, doppelt, Dicke je d=5mm]]></description>
+            </elementInfo>
+            <components>
+              <component isLayer="true" processConfigUuid="4164c751-edb7-532c-bd46-3d7b8da7bf24" processConfigName="Voranstrich (Kunstharz)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="1" layerSize="0.005" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="f5e523e6-a6f3-4666-8550-8d652d223aa0" processConfigName="Zementestrich" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="2" layerSize="0.065" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="2f226b8f-b7df-5fba-bac2-22dbea19df1d" processConfigName="PE-Noppenfolie zur Abdichtung" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="3" layerSize="0.0002" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="3864f0ff-f5d5-5612-add2-efcb35040469" processConfigName="Bitumenbahnen V 60" lifeTime="30" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="4" layerSize="0.005" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <element uuid="3780297a-6942-4166-ae10-1092a7fdaf92" din276Code="324" quantity="355" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[G_Bodenplatte_Stahlbeton-Ortbauweise_C25/30_250mm_2%]]></name>
+              <description><![CDATA[Generischer Datensatz, Bodenplatte, Stahlbeton-Ortbauweise, C25/30, Dicke d=250mm, Bewehrungsgrad 2%]]></description>
+            </elementInfo>
+            <components>
+              <siblings>
+                <component isLayer="true" processConfigUuid="7bda7742-18c1-527c-a48e-84e193b3355c" processConfigName="Transportbeton C20/25" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="1" layerSize="0.15" layerAreaRatio="0.98" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+                <component isLayer="true" processConfigUuid="fa97d434-c8de-5726-a472-c820203154ca" processConfigName="Bewehrungsstahl" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="1" layerSize="0.15" layerAreaRatio="0.02" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+              </siblings>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <composite uuid="8fb25d76-a444-48c3-b12c-a48dc1cbdb82" din276Code="350" quantity="710" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[Zwischendecke 1]]></name>
+              <description><![CDATA[Beispieldatensatz, im Projekt bitte anpassen.]]></description>
+            </elementInfo>
+            <elements>
+              <referenceToElement position="1" uuid="a88bfab6-1f20-4262-86c8-f6ada628f447"/>
+              <referenceToElement position="2" uuid="0cd0f363-0388-4681-ac03-f5dce5576a7a"/>
+            </elements>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.oz">
+                <caption><![CDATA[OZ]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </composite>
+          <element uuid="a88bfab6-1f20-4262-86c8-f6ada628f447" din276Code="351" quantity="710" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[Hochlochziegel]]></name>
+              <description><![CDATA[]]></description>
+            </elementInfo>
+            <components>
+              <component isLayer="true" processConfigUuid="14febad1-298a-4275-ac49-89380164d275" processConfigName="Mauersteine aus Leichtbeton aus natürlichen Zuschlägen - Hohlblock -" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="1" layerSize="0.16" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.oz">
+                <caption><![CDATA[OZ]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <element uuid="0cd0f363-0388-4681-ac03-f5dce5576a7a" din276Code="352" quantity="710" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[Schwimmender Estrich]]></name>
+              <description><![CDATA[]]></description>
+            </elementInfo>
+            <components>
+              <component isLayer="true" processConfigUuid="e6088b02-3f9b-5511-9bdf-d6b824fb5dd0" processConfigName="Dampfbremse PE" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="1" layerSize="0.001" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="8862e860-cb5d-46de-9e19-dd7cb23d357a" processConfigName="Estrichmörtel-Zementestrich" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="2" layerSize="0.05" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="9ff0b931-249c-4dd1-baf0-fd57e8c3df94" processConfigName="Linoleum" lifeTime="20" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="3" layerSize="0.002" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <element uuid="03bb3d98-5750-4707-b4b2-5166ad40b26c" din276Code="361" quantity="355" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[IBO_DAm_07]]></name>
+              <description><![CDATA[]]></description>
+            </elementInfo>
+            <components>
+              <component isLayer="true" processConfigUuid="441b1255-22d4-56de-90f0-ee5909cfd949" processConfigName="Kalk-Gips-Innenputz" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="1" layerSize="0.01" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <siblings>
+                <component isLayer="true" processConfigUuid="7bda7742-18c1-527c-a48e-84e193b3355c" processConfigName="Transportbeton C20/25" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="4" layerSize="0.3" layerAreaRatio="0.94" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+                <component isLayer="true" processConfigUuid="fa97d434-c8de-5726-a472-c820203154ca" processConfigName="Bewehrungsstahl" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="4" layerSize="0.3" layerAreaRatio="0.06" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+              </siblings>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <element uuid="ecf59b7a-f861-44c1-af12-ef01b0ae6542" din276Code="363" quantity="355" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[IBO_DAm_07]]></name>
+              <description><![CDATA[]]></description>
+            </elementInfo>
+            <components>
+              <component isLayer="true" processConfigUuid="5e801362-40d5-5ed9-b4ad-588bcfbcb7cf" processConfigName="PE-HD mit PP-Vlies zur Abdichtung" lifeTime="30" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="1" layerSize="0.001" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="0184bd45-f48f-54cd-ad00-80fc6c408b2a" processConfigName="Kies 2/32 getrocknet" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="2" layerSize="0.1" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <composite uuid="4809f2b9-f50f-48d8-8ab4-fd86a7deb96d" din276Code="330" quantity="462" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[Außenwand 3]]></name>
+              <description><![CDATA[Beispieldatensatz, im Projekt bitte anpassen.]]></description>
+            </elementInfo>
+            <elements>
+              <referenceToElement position="1" uuid="008c7d13-7e70-4f24-bd78-adc0f27c90e7"/>
+              <referenceToElement position="2" uuid="d9b204de-af32-49a7-99c2-035acf75db2f"/>
+              <referenceToElement position="3" uuid="9ba3ae35-39e1-4028-8895-1438aa7d00bf"/>
+            </elements>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.oz">
+                <caption><![CDATA[OZ]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+                <numericValue>1.2</numericValue>
+              </attr>
+            </attributes>
+          </composite>
+          <element uuid="008c7d13-7e70-4f24-bd78-adc0f27c90e7" din276Code="336" quantity="462" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[Gips-Putz/Anstrich]]></name>
+              <description><![CDATA[]]></description>
+            </elementInfo>
+            <components>
+              <component isLayer="true" processConfigUuid="78b4237f-39ce-509c-8ef1-cd3ef145d71f" processConfigName="Innenfarbe Dispersionsfarbe scheuerfest" lifeTime="15" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="1" layerSize="0.0003" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="cf4e55b6-ef4b-5569-8979-4b85b4cdb285" processConfigName="Gipsputz (Gips)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="2" layerSize="0.02" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <element uuid="d9b204de-af32-49a7-99c2-035acf75db2f" din276Code="331" quantity="462" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[Mauerziegel_270mm_E]]></name>
+              <description><![CDATA[Mauerziegel (EPD Datensatz) Dicke d=270 mm]]></description>
+            </elementInfo>
+            <components>
+              <component isLayer="true" processConfigUuid="14febad1-298a-4275-ac49-89380164d275" processConfigName="Mauersteine aus Leichtbeton aus natürlichen Zuschlägen - Hohlblock -" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="1" layerSize="0.27" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <element uuid="9ba3ae35-39e1-4028-8895-1438aa7d00bf" din276Code="335" quantity="462" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[WDVS (Roe)]]></name>
+              <description><![CDATA[]]></description>
+            </elementInfo>
+            <components>
+              <component isLayer="true" processConfigUuid="61a989a5-9079-4aca-a215-a1901ccd7ead" processConfigName="Kunstharzestrich" lifeTime="30" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="1" layerSize="0.004" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="04901aa6-1f51-5c02-aea3-7084f8f95323" processConfigName="Kunstharzputz" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="2" layerSize="0.015" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <element uuid="1c3b1656-b056-44de-b7be-bfd683915195" din276Code="334" quantity="31" refUnit="Stück">
+            <elementInfo>
+              <name><![CDATA[Fenster 3]]></name>
+              <description><![CDATA[1
+Anschlussfuge: Elastomer Fugenbänder, Polyurethan
+2
+Blendrahmen: Blendrahmen PVC-U
+3
+Verglasung: Isolierglas 2-Scheiben]]></description>
+            </elementInfo>
+            <assistant ident="window-assistant" uuid="32c68bf3-a799-4e98-9196-8b2d3bd6952c">
+              <config><![CDATA[TzozNDoiRWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XFdpbmRvdyI6MTU6e3M6NDA6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcV2luZG93AG5hbWUiO3M6OToiRmVuc3RlciAzIjtzOjQ0OiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XFdpbmRvdwBib3VuZGFyeSI7TzozNjoiRWxjYVxNb2RlbFxDb21tb25cR2VvbWV0cnlcUmVjdGFuZ2xlIjoyOntzOjQzOiIARWxjYVxNb2RlbFxDb21tb25cR2VvbWV0cnlcUmVjdGFuZ2xlAHdpZHRoIjtkOjIuMTg7czo0NDoiAEVsY2FcTW9kZWxcQ29tbW9uXEdlb21ldHJ5XFJlY3RhbmdsZQBoZWlnaHQiO2Q6MS40ODt9czo0MzoiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xXaW5kb3cAc2VhbGluZyI7TzozMzoiRWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZyYW1lIjozOntzOjQ1OiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZyYW1lAGZyYW1lV2lkdGgiO2Q6MC4wMjtzOjQ4OiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZyYW1lAG91dGVyQm91bmRhcnkiO086MzY6IkVsY2FcTW9kZWxcQ29tbW9uXEdlb21ldHJ5XFJlY3RhbmdsZSI6Mjp7czo0MzoiAEVsY2FcTW9kZWxcQ29tbW9uXEdlb21ldHJ5XFJlY3RhbmdsZQB3aWR0aCI7ZDoyLjIyO3M6NDQ6IgBFbGNhXE1vZGVsXENvbW1vblxHZW9tZXRyeVxSZWN0YW5nbGUAaGVpZ2h0IjtkOjEuNTI7fXM6NDU6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRnJhbWUAbWF0ZXJpYWxJZCI7czo1OiIxNTI0MiI7fXM6NDY6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcV2luZG93AGZpeGVkRnJhbWUiO086Mzg6IkVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGaXhlZEZyYW1lIjoxNTp7czo0NToiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGaXhlZEZyYW1lAHRpbGVzIjthOjE6e2k6MDthOjE6e2k6MDtPOjMzOiJFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRnJhbWUiOjM6e3M6NDU6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRnJhbWUAZnJhbWVXaWR0aCI7aTowO3M6NDg6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRnJhbWUAb3V0ZXJCb3VuZGFyeSI7TzozNjoiRWxjYVxNb2RlbFxDb21tb25cR2VvbWV0cnlcUmVjdGFuZ2xlIjoyOntzOjQzOiIARWxjYVxNb2RlbFxDb21tb25cR2VvbWV0cnlcUmVjdGFuZ2xlAHdpZHRoIjtkOjIuMDQ7czo0NDoiAEVsY2FcTW9kZWxcQ29tbW9uXEdlb21ldHJ5XFJlY3RhbmdsZQBoZWlnaHQiO2Q6MS4zMzk5OTk5OTk5OTk5OTk5O31zOjQ1OiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZyYW1lAG1hdGVyaWFsSWQiO3M6NToiMTUyMzEiO319fXM6NTY6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRml4ZWRGcmFtZQBudW1iZXJPZk11bGxpb25zIjtpOjA7czo1NjoiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGaXhlZEZyYW1lAG51bWJlck9mVHJhbnNvbXMiO2k6MDtzOjUzOiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZpeGVkRnJhbWUAdG9wTGlnaHRGcmFtZSI7TjtzOjUxOiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZpeGVkRnJhbWUAaGFzVG9wTGlnaHQiO2I6MDtzOjY4OiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZpeGVkRnJhbWUAaGFzSW5kaXZpZHVhbEZyYW1lRGltZW5zaW9ucyI7YjowO3M6NTQ6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRml4ZWRGcmFtZQB0b3BMaWdodEhlaWdodCI7aTowO3M6NTA6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRml4ZWRGcmFtZQB0aWxlV2lkdGhzIjtOO3M6NTE6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRml4ZWRGcmFtZQB0aWxlSGVpZ2h0cyI7TjtzOjYxOiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZpeGVkRnJhbWUAZml4ZWRNdWxsaW9uc1RyYW5zb21zIjtiOjA7czo1OToiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGaXhlZEZyYW1lAHNhc2hGcmFtZU1hdGVyaWFsSWQiO3M6NToiMTUyMzEiO3M6NTQ6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRml4ZWRGcmFtZQBzYXNoRnJhbWVXaWR0aCI7aTowO3M6NDU6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRnJhbWUAZnJhbWVXaWR0aCI7ZDowLjA3O3M6NDg6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRnJhbWUAb3V0ZXJCb3VuZGFyeSI7cjozO3M6NDU6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRnJhbWUAbWF0ZXJpYWxJZCI7czo1OiIxNTIzMCI7fXM6NDY6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcV2luZG93AHNpbGxJbmRvb3IiO047czo0NzoiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xXaW5kb3cAc2lsbE91dGRvb3IiO047czo0ODoiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xXaW5kb3cAc29mZml0SW5kb29yIjtOO3M6NDk6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcV2luZG93AHNvZmZpdE91dGRvb3IiO047czo0MzoiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xXaW5kb3cAaGFuZGxlcyI7TjtzOjQ0OiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XFdpbmRvdwBmaXR0aW5ncyI7TjtzOjUxOiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XFdpbmRvdwBnbGFzc01hdGVyaWFsSWQiO3M6NToiMTUyMzMiO3M6NjE6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcV2luZG93AHN1bnNjcmVlbkluZG9vck1hdGVyaWFsSWQiO047czo2MjoiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xXaW5kb3cAc3Vuc2NyZWVuT3V0ZG9vck1hdGVyaWFsSWQiO047czoxNjoibnVtYmVyT2ZNdWxsaW9ucyI7aTowO3M6MTY6Im51bWJlck9mVHJhbnNvbXMiO2k6MDt9]]></config>
+              <element><![CDATA[window]]></element>
+            </assistant>
+            <components>
+              <component isLayer="false" processConfigUuid="1dccbc89-13f1-5bed-a5cc-93f733240818" processConfigName="Blendrahmen PVC-U" lifeTime="40" lifeTimeDelay="0" calcLca="true" isExtant="false" quantity="7.04" conversionInUnit="m" conversionOutUnit="m" conversionFactor="1">
+                <attributes>
+                  <attr ident="window-assistant"/>
+                </attributes>
+              </component>
+              <component isLayer="false" processConfigUuid="bf88d7fc-f692-5702-a162-f0751faf9f78" processConfigName="Isolierglas 2-Scheiben" lifeTime="30" lifeTimeDelay="0" calcLca="true" isExtant="false" quantity="2.7336" conversionInUnit="m2" conversionOutUnit="m2" conversionFactor="1">
+                <attributes>
+                  <attr ident="window-assistant"/>
+                </attributes>
+              </component>
+              <component isLayer="false" processConfigUuid="9d289349-12a5-5a50-ba9d-14c9bbe4681b" processConfigName="Flügelrahmen PVC-U" lifeTime="40" lifeTimeDelay="0" calcLca="true" isExtant="false" quantity="0" conversionInUnit="m" conversionOutUnit="m" conversionFactor="1">
+                <attributes>
+                  <attr ident="window-assistant"/>
+                </attributes>
+              </component>
+              <component isLayer="true" processConfigUuid="a2ce406e-1769-5eba-aa7d-ba105cbbe8a9" processConfigName="Elastomer Fugenbänder, Polyurethan" lifeTime="30" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="1" layerSize="0.05" layerAreaRatio="0.043859649122807" layerLength="2.22" layerWidth="1.52">
+                <attributes>
+                  <attr ident="window-assistant"/>
+                </attributes>
+              </component>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <composite uuid="8891b718-497a-4c0b-8d3e-8ff8d6e87511" din276Code="360" quantity="355" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[Dach 4]]></name>
+              <description><![CDATA[Dämmung 12 cm (WLS 035) auf Betondecke]]></description>
+            </elementInfo>
+            <elements>
+              <referenceToElement position="1" uuid="03bb3d98-5750-4707-b4b2-5166ad40b26c"/>
+              <referenceToElement position="2" uuid="ecf59b7a-f861-44c1-af12-ef01b0ae6542"/>
+            </elements>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.oz">
+                <caption><![CDATA[OZ]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+                <numericValue>1.08</numericValue>
+              </attr>
+            </attributes>
+          </composite>
+        </elements>
+        <finalEnergyDemands ngfEnEv="632" enEvVersion="0">
+          <finalEnergyDemand processConfigUuid="dfac1ed8-6e1d-57ee-8770-bc34cc7b81c5" processConfigName="Gas Niedertemperatur (120 - 400 kW, entspr. EnEV)">
+            <heating>247</heating>
+            <water>57.8</water>
+          </finalEnergyDemand>
+          <finalEnergyDemand processConfigUuid="e4fe792c-fbe1-559d-83b6-1ca12b966357" processConfigName="Beleuchtung (Verbrauch 1 kWh Strom)">
+            <lighting>0.37</lighting>
+          </finalEnergyDemand>
+        </finalEnergyDemands>
+        <attributes/>
+      </variant>
+    </projectVariants>
+    <attributes>
+      <attr ident="elca.bnb_nr">
+        <caption><![CDATA[BNB Nummer]]></caption>
+      </attr>
+      <attr ident="elca.egis_nr">
+        <caption><![CDATA[eGis Nummer]]></caption>
+      </attr>
+      <attr ident="elca.IS_LISTED">
+        <caption><![CDATA[Denkmalschutz]]></caption>
+      </attr>
+      <attr ident="elca.pw.date">
+        <caption><![CDATA[Passwort gültig seit]]></caption>
+        <textValue><![CDATA[2022-12-22]]></textValue>
+      </attr>
+    </attributes>
+  </project>
+</elca>

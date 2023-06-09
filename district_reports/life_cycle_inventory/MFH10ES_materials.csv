@@ -1,0 +1,36 @@
+process,module,component,component quantity,cost group DIN 276,mass in kg,unit for component quantity and amount of component on quarter scale,amount building element on quarter scale,mass on quarter scale in kg
+Transportbeton C20/25,A1 - A3 Aggregation,IBO_GDm_01,1160.0,351 Deckenkonstruktionen,416115.2, m²,10440.0,3745036.8000000003
+Mauersteine aus Leichtbeton aus natürlichen Zuschlägen - Hohlblock -,A1 - A3 Aggregation,Mauerziegel_270mm_E,1698.0,331 Tragende Außenwände,366768.0, m²,15282.0,3300912.0
+Transportbeton C20/25,A1 - A3 Aggregation,G_Bodenplatte_Stahlbeton-Ortbauweise_C25/30_250mm_2%,619.5,324 Unterböden und Bodenplatten,214916.94, m²,5575.5,1934252.46
+Zementestrich,A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,619.5,325 Bodenbeläge,96642.0, m²,5575.5,869778.0
+Bewehrungsstahl,A1 - A3 Aggregation,IBO_GDm_01,1160.0,351 Deckenkonstruktionen,72848.0, m²,10440.0,655632.0
+Estrichmörtel-Zementestrich,A1 - A3 Aggregation,IBO_KDo_01,1160.0,352 Deckenbeläge,69600.0, m²,10440.0,626400.0
+Kunstharzputz,A1 - A3 Aggregation,WDVS (Roe),1698.0,"335 Außenwandbekleidungen, außen",43299.0, m²,15282.0,389691.0
+Dachziegel,A1 - A3 Aggregation,Ziegeldeckung / Lattung,580.0,363 Dachbeläge,37845.0, m²,5220.0,340605.0
+Dachziegel,A3 Herstellung,Ziegeldeckung / Lattung,580.0,363 Dachbeläge,37845.0, m²,5220.0,340605.0
+Dachziegel,A1 Rohstoffbereitstellung,Ziegeldeckung / Lattung,580.0,363 Dachbeläge,37845.0, m²,5220.0,340605.0
+Dachziegel,A2 Transport,Ziegeldeckung / Lattung,580.0,363 Dachbeläge,37845.0, m²,5220.0,340605.0
+Gipsputz (Gips),A1 - A3 Aggregation,Gips-Putz/Anstrich,1698.0,"336 Außenwandbekleidungen, innen",30564.0, m²,15282.0,275076.0
+Kunstharzputz,A1 - A3 Aggregation,IBO_GDm_01,1160.0,351 Deckenkonstruktionen,29580.0, m²,10440.0,266220.0
+Kunstharzputz,A1 - A3 Aggregation,WDVS (Roe),1698.0,"335 Außenwandbekleidungen, außen",28866.0, m²,15282.0,259794.0
+Bewehrungsstahl,A1 - A3 Aggregation,G_Bodenplatte_Stahlbeton-Ortbauweise_C25/30_250mm_2%,619.5,324 Unterböden und Bodenplatten,14589.23, m²,5575.5,131303.07
+Nadelschnittholz - frisch (Durchschnitt DE),A1 - A3 Aggregation,Sparrendach / Dämmung / Dampfbremse,580.0,361 Dachkonstruktionen,14088.57, m²,5220.0,126797.13
+Kunstharzestrich,A1 - A3 Aggregation,WDVS (Roe),1698.0,"335 Außenwandbekleidungen, außen",12225.6, m²,15282.0,110030.40000000001
+Isolierglas 2-Scheiben,A1 - A3 Aggregation,Fenster 3,96.0,334 Außentüren und -fenster,5379.72, Stück,864.0,48417.48
+Gipsputz (Gips-Kalk-Putz),A1 - A3 Aggregation,GK Platte doppelt / Anstrich / Folie,580.0,364 Dachbekleidungen,5220.0, m²,5220.0,46980.0
+Voranstrich (Kunstharz),A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,619.5,325 Bodenbeläge,4801.13, m²,5575.5,43210.17
+Dämmplatte mit Neopor® Plus,A1 - A3 Aggregation,WDVS (Roe),1698.0,"335 Außenwandbekleidungen, außen",3565.8, m²,15282.0,32092.2
+"Bitumenbahnen V 60 (Dicke 0,005 m)",A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,619.5,325 Bodenbeläge,3097.5, m²,5575.5,27877.5
+"Linoleum (Dicke 0,0025 m)",A1 - A3 Aggregation,IBO_KDo_01,1160.0,352 Deckenbeläge,2784.0, m²,10440.0,25056.0
+XPS-Dämmstoff,A1 - A3 Aggregation,Sparrendach / Dämmung / Dampfbremse,580.0,361 Dachkonstruktionen,2672.64, m²,5220.0,24053.76
+XPS-Dämmstoff,A1 - A3 Aggregation,G_Bodenplatte_Stahlbeton-Ortbauweise_C25/30_250mm_2%,619.5,324 Unterböden und Bodenplatten,1982.4, m²,5575.5,17841.600000000002
+Mineralwolle (Boden-Dämmung),A1 - A3 Aggregation,IBO_KDo_01,1160.0,352 Deckenbeläge,1972.0, m²,10440.0,17748.0
+Blendrahmen PVC-U,A1 - A3 Aggregation,Fenster 3,96.0,334 Außentüren und -fenster,1892.35, Stück,864.0,17031.149999999998
+Nadelschnittholz - frisch (Durchschnitt DE),A1 - A3 Aggregation,Ziegeldeckung / Lattung,580.0,363 Dachbeläge,1174.05, m²,5220.0,10566.449999999999
+Nadelschnittholz - frisch (Durchschnitt DE),A1 - A3 Aggregation,Ziegeldeckung / Lattung,580.0,363 Dachbeläge,1174.05, m²,5220.0,10566.449999999999
+Innenfarbe Dispersionsfarbe scheuerfest,A1 - A3 Aggregation,Gips-Putz/Anstrich,1698.0,"336 Außenwandbekleidungen, innen",794.66, m²,15282.0,7151.94
+"Elastomer Fugenbänder, Polyurethan",A1 - A3 Aggregation,Fenster 3,96.0,334 Außentüren und -fenster,724.61, Stück,864.0,6521.49
+"Dampfbremse PE (Dicke 0,0002 m)",A1 - A3 Aggregation,Sparrendach / Dämmung / Dampfbremse,580.0,361 Dachkonstruktionen,580.0, m²,5220.0,5220.0
+PE/PP Vlies,A1 - A3 Aggregation,IBO_KDo_01,1160.0,352 Deckenbeläge,460.32, m²,10440.0,4142.88
+"PE-Noppenfolie zur Abdichtung (Dicke 0,00125 m)",A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,619.5,325 Bodenbeläge,118.94, m²,5575.5,1070.46
+Flügelrahmen PVC-U,A1 - A3 Aggregation,Fenster 3,96.0,334 Außentüren und -fenster,0.0, Stück,864.0,0.0

@@ -1,0 +1,25 @@
+process,module,component,component quantity,cost group DIN 276,mass in kg,unit for component quantity and amount of component on quarter scale,amount building element on quarter scale,mass on quarter scale in kg
+Transportbeton C20/25,A1 - A3 Aggregation,IBO_DAm_07,355.0,361 Dachkonstruktionen,236259.6, m²,82715.0,55048486.800000004
+Transportbeton C20/25,A1 - A3 Aggregation,G_Bodenplatte_Stahlbeton-Ortbauweise_C25/30_250mm_2%,355.0,324 Unterböden und Bodenplatten,123156.6, m²,82715.0,28695487.8
+Mauersteine aus Leichtbeton aus natürlichen Zuschlägen - Hohlblock -,A1 - A3 Aggregation,Mauerziegel_270mm_E,462.0,331 Tragende Außenwände,99792.0, m²,107646.0,23251536.0
+Mauersteine aus Leichtbeton aus natürlichen Zuschlägen - Hohlblock -,A1 - A3 Aggregation,Hochlochziegel,710.0,351 Deckenkonstruktionen,90880.0, m²,165430.0,21175040.0
+Kies 2/32 getrocknet,A1 - A3 Aggregation,IBO_DAm_07,355.0,363 Dachbeläge,65675.0, m²,82715.0,15302275.0
+Zementestrich,A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,355.0,325 Bodenbeläge,55380.0, m²,82715.0,12903540.0
+Estrichmörtel-Zementestrich,A1 - A3 Aggregation,Schwimmender Estrich,710.0,352 Deckenbeläge,53250.0, m²,165430.0,12407250.0
+Bewehrungsstahl,A1 - A3 Aggregation,IBO_DAm_07,355.0,361 Dachkonstruktionen,50161.5, m²,82715.0,11687629.5
+Kunstharzputz,A1 - A3 Aggregation,WDVS (Roe),462.0,"335 Außenwandbekleidungen, außen",11781.0, m²,107646.0,2744973.0
+Bewehrungsstahl,A1 - A3 Aggregation,G_Bodenplatte_Stahlbeton-Ortbauweise_C25/30_250mm_2%,355.0,324 Unterböden und Bodenplatten,8360.25, m²,82715.0,1947938.25
+Gipsputz (Gips),A1 - A3 Aggregation,Gips-Putz/Anstrich,462.0,"336 Außenwandbekleidungen, innen",8316.0, m²,107646.0,1937628.0
+Kunstharzestrich,A1 - A3 Aggregation,WDVS (Roe),462.0,"335 Außenwandbekleidungen, außen",3326.4, m²,107646.0,775051.2000000001
+Kalk-Gips-Innenputz,A1 - A3 Aggregation,IBO_DAm_07,355.0,361 Dachkonstruktionen,3195.0, m²,82715.0,744435.0
+Voranstrich (Kunstharz),A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,355.0,325 Bodenbeläge,2751.25, m²,82715.0,641041.25
+"Bitumenbahnen V 60 (Dicke 0,005 m)",A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,355.0,325 Bodenbeläge,1775.0, m²,82715.0,413575.0
+Isolierglas 2-Scheiben,A1 - A3 Aggregation,Fenster 3,31.0,334 Außentüren und -fenster,1737.2, Stück,7223.0,404767.60000000003
+"Linoleum (Dicke 0,0025 m)",A1 - A3 Aggregation,Schwimmender Estrich,710.0,352 Deckenbeläge,1704.0, m²,165430.0,397032.0
+"Dampfbremse PE (Dicke 0,0002 m)",A1 - A3 Aggregation,Schwimmender Estrich,710.0,352 Deckenbeläge,710.0, m²,165430.0,165430.0
+Blendrahmen PVC-U,A1 - A3 Aggregation,Fenster 3,31.0,334 Außentüren und -fenster,611.07, Stück,7223.0,142379.31
+"Elastomer Fugenbänder, Polyurethan",A1 - A3 Aggregation,Fenster 3,31.0,334 Außentüren und -fenster,233.99, Stück,7223.0,54519.670000000006
+Innenfarbe Dispersionsfarbe scheuerfest,A1 - A3 Aggregation,Gips-Putz/Anstrich,462.0,"336 Außenwandbekleidungen, innen",216.22, m²,107646.0,50379.26
+PE-HD mit PP-Vlies zur Abdichtung,A1 - A3 Aggregation,IBO_DAm_07,355.0,363 Dachbeläge,140.58, m²,82715.0,32755.140000000003
+"PE-Noppenfolie zur Abdichtung (Dicke 0,00125 m)",A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,355.0,325 Bodenbeläge,68.16, m²,82715.0,15881.279999999999
+Flügelrahmen PVC-U,A1 - A3 Aggregation,Fenster 3,31.0,334 Außentüren und -fenster,0.0, Stück,7223.0,0.0

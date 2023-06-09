@@ -1,0 +1,33 @@
+process,module,component,component quantity,cost group DIN 276,mass in kg,unit for component quantity and amount of component on quarter scale,amount building element on quarter scale,mass on quarter scale in kg
+Mauerziegel,A1 - A3 Aggregation,Mauerziegel_270mm_E,323.5,331 Tragende Außenwände,50223.38, m²,14234.0,2209828.7199999997
+Transportbeton C30/37,A1 - A3 Aggregation,Ortbeton Stahlträger,158.5,324 Unterböden und Bodenplatten,35535.7, m²,6974.0,1563570.7999999998
+Estrichmörtel-Calciumsulfatestrich,A1 - A3 Aggregation,Estrich - Dämmung,317.0,352 Deckenbeläge,28530.0, m²,13948.0,1255320.0
+Zementestrich,A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,158.5,325 Bodenbeläge,24726.0, m²,6974.0,1087944.0
+Brettsperrholz (Durchschnitt DE),A1 - A3 Aggregation,Holzrahmen - Dämmung,317.0,351 Deckenkonstruktionen,11170.29, m²,13948.0,491492.76
+Dachziegel,A1 Rohstoffbereitstellung,Ziegeldeckung / Lattung,158.5,363 Dachbeläge,10342.13, m²,6974.0,455053.72
+Dachziegel,A1 - A3 Aggregation,Ziegeldeckung / Lattung,158.5,363 Dachbeläge,10342.13, m²,6974.0,455053.72
+Dachziegel,A2 Transport,Ziegeldeckung / Lattung,158.5,363 Dachbeläge,10342.13, m²,6974.0,455053.72
+Dachziegel,A3 Herstellung,Ziegeldeckung / Lattung,158.5,363 Dachbeläge,10342.13, m²,6974.0,455053.72
+Kunstharzputz,A1 - A3 Aggregation,WDVS (Roe),323.5,"335 Außenwandbekleidungen, außen",8249.25, m²,14234.0,362967.0
+Baustähle: Offene Walzprofile und Grobbleche,A1 - A3 Aggregation,Ortbeton Stahlträger,158.5,324 Unterböden und Bodenplatten,6221.13, m²,6974.0,273729.72000000003
+Gipsputz (Gips),A1 - A3 Aggregation,Gips-Putz/Anstrich,323.5,"336 Außenwandbekleidungen, innen",5823.0, m²,14234.0,256212.0
+Massivholzparkett (Durchschnitt DE),A1 - A3 Aggregation,Estrich - Dämmung,317.0,352 Deckenbeläge,5272.82, m²,13948.0,232004.08
+Nadelschnittholz - frisch (Durchschnitt DE),A1 - A3 Aggregation,Sparrendach / Dämmung / Dampfbremse,158.5,361 Dachkonstruktionen,4277.85, m²,6974.0,188225.40000000002
+Balkenschichtholz (Durchschnitt DE),A1 - A3 Aggregation,Holzrahmen - Dämmung,317.0,351 Deckenkonstruktionen,3172.28, m²,13948.0,139580.32
+Kalk-Gips-Innenputz,A1 - A3 Aggregation,Holzrahmen - Dämmung,317.0,351 Deckenkonstruktionen,2853.0, m²,13948.0,125532.0
+Massivholzparkett (Durchschnitt DE),A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,158.5,325 Bodenbeläge,2636.41, m²,6974.0,116002.04
+Kunstharzestrich,A1 - A3 Aggregation,WDVS (Roe),323.5,"335 Außenwandbekleidungen, außen",2329.2, m²,14234.0,102484.79999999999
+Gipsputz (Gips-Kalk-Putz),A1 - A3 Aggregation,GK Platte doppelt / Anstrich / Folie,158.5,364 Dachbekleidungen,1426.5, m²,6974.0,62766.0
+Konstruktionsvollholz (Durchschnitt DE),A1 - A3 Aggregation,Holzrahmen - Dämmung,317.0,351 Deckenkonstruktionen,1250.05, m²,13948.0,55002.2
+Konstruktionsvollholz (Durchschnitt DE),A1 - A3 Aggregation,Holzrahmen - Dämmung,317.0,351 Deckenkonstruktionen,1250.05, m²,13948.0,55002.2
+Isolierglas 2-Scheiben,A1 - A3 Aggregation,Fenster 3,22.0,334 Außentüren und -fenster,1232.85, Stück,968.0,54245.399999999994
+"Bitumenbahnen V 60 (Dicke 0,005 m)",A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,158.5,325 Bodenbeläge,792.5, m²,6974.0,34870.0
+Blendrahmen PVC-U,A1 - A3 Aggregation,Fenster 3,22.0,334 Außentüren und -fenster,433.66, Stück,968.0,19081.04
+Holzfaserdämmplatten,A1 - A3 Aggregation,GK Platte doppelt / Anstrich / Folie,158.5,364 Dachbekleidungen,264.7, m²,6974.0,11646.8
+"Elastomer Fugenbänder, Polyurethan",A1 - A3 Aggregation,Fenster 3,22.0,334 Außentüren und -fenster,166.06, Stück,968.0,7306.64
+"Dampfbremse PE (Dicke 0,0002 m)",A1 - A3 Aggregation,Sparrendach / Dämmung / Dampfbremse,158.5,361 Dachkonstruktionen,158.5, m²,6974.0,6974.0
+Innenfarbe Dispersionsfarbe scheuerfest,A1 - A3 Aggregation,Gips-Putz/Anstrich,323.5,"336 Außenwandbekleidungen, innen",151.4, m²,14234.0,6661.6
+"Dampfbremse PE (Dicke 0,0002 m)",A1 - A3 Aggregation,Estrich - Dämmung,317.0,352 Deckenbeläge,95.1, m²,13948.0,4184.4
+eLCA Luftschicht (gemäß EN 15804+A1),A1 - A3 Aggregation,Sparrendach / Dämmung / Dampfbremse,158.5,361 Dachkonstruktionen,30.54, m²,6974.0,1343.76
+eLCA Luftschicht (gemäß EN 15804+A1),A1 - A3 Aggregation,Holzrahmen - Dämmung,317.0,351 Deckenkonstruktionen,27.48, m²,13948.0,1209.1200000000001
+Flügelrahmen PVC-U,A1 - A3 Aggregation,Fenster 3,22.0,334 Außentüren und -fenster,0.0, Stück,968.0,0.0

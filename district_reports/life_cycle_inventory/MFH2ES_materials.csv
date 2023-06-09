@@ -1,0 +1,26 @@
+process,module,component,component quantity,cost group DIN 276,mass in kg,unit for component quantity and amount of component on quarter scale,amount building element on quarter scale,mass on quarter scale in kg
+Lehmputz,A1 - A3 Aggregation,Holzrahmen - Dämmung,411.2,351 Deckenkonstruktionen,66614.4, m²,2056.0,333072.0
+Estrichmörtel-Calciumsulfatestrich,A1 - A3 Aggregation,Estrich - Dämmung,411.2,352 Deckenbeläge,37008.0, m²,2056.0,185040.0
+Mauerziegel,A1 - A3 Aggregation,Mauerziegel_270mm_E,146.0,331 Tragende Außenwände,22666.5, m²,730.0,113332.5
+Zementestrich,A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,102.8,325 Bodenbeläge,16036.8, m²,514.0,80184.0
+Lehmstein,A1 - A3 Aggregation,Sparrendach / Dämmung / Dampfbremse,102.8,361 Dachkonstruktionen,9868.8, m²,514.0,49344.0
+Massivholzparkett (Durchschnitt DE),A1 - A3 Aggregation,Estrich - Dämmung,411.2,352 Deckenbeläge,6839.7, m²,2056.0,34198.5
+Mauerziegel,A1 - A3 Aggregation,Ziegel Kappendecke,102.8,324 Unterböden und Bodenplatten,5911.0, m²,514.0,29555.0
+Balkenschichtholz (Durchschnitt DE),A1 - A3 Aggregation,Holzrahmen - Dämmung,411.2,351 Deckenkonstruktionen,4114.96, m²,2056.0,20574.8
+Konstruktionsvollholz (Durchschnitt DE),A1 - A3 Aggregation,Holzrahmen - Dämmung,411.2,351 Deckenkonstruktionen,4053.77, m²,2056.0,20268.85
+Kunstharzputz,A1 - A3 Aggregation,WDVS (Roe),146.0,"335 Außenwandbekleidungen, außen",3723.0, m²,730.0,18615.0
+Kalk-Gips-Innenputz,A1 - A3 Aggregation,Holzrahmen - Dämmung,411.2,351 Deckenkonstruktionen,3700.8, m²,2056.0,18504.0
+Gipsputz (Gips),A1 - A3 Aggregation,Gips-Putz/Anstrich,146.0,"336 Außenwandbekleidungen, innen",2628.0, m²,730.0,13140.0
+Massivholzparkett (Durchschnitt DE),A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,102.8,325 Bodenbeläge,1709.92, m²,514.0,8549.6
+Nadelschnittholz - frisch (Durchschnitt DE),A1 - A3 Aggregation,Sparrendach / Dämmung / Dampfbremse,102.8,361 Dachkonstruktionen,1387.27, m²,514.0,6936.35
+Kunstharzestrich,A1 - A3 Aggregation,WDVS (Roe),146.0,"335 Außenwandbekleidungen, außen",1051.2, m²,730.0,5256.0
+Isolierglas 2-Scheiben,A1 - A3 Aggregation,Fenster 4,17.0,334 Außentüren und -fenster,952.66, Stück,85.0,4763.3
+Gipsputz (Gips-Kalk-Putz),A1 - A3 Aggregation,GK Platte doppelt / Anstrich / Folie,102.8,364 Dachbekleidungen,925.2, m²,514.0,4626.0
+"Bitumenbahnen V 60 (Dicke 0,005 m)",A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,102.8,325 Bodenbeläge,514.0, m²,514.0,2570.0
+FASBA e.V. GaBi Baustroh,A1 - A3 Aggregation,Ziegeldeckung / Lattung,102.8,363 Dachbeläge,308.4, m²,514.0,1542.0
+Holz-Blendrahmen,A1 - A3 Aggregation,Fenster 4,17.0,334 Außentüren und -fenster,252.52, Stück,85.0,1262.6000000000001
+"Elastomer Fugenbänder, Polyurethan",A1 - A3 Aggregation,Fenster 4,17.0,334 Außentüren und -fenster,128.32, Stück,85.0,641.5999999999999
+"Dampfbremse PE (Dicke 0,0002 m)",A1 - A3 Aggregation,Estrich - Dämmung,411.2,352 Deckenbeläge,123.36, m²,2056.0,616.8
+"Dampfbremse PE (Dicke 0,0002 m)",A1 - A3 Aggregation,Sparrendach / Dämmung / Dampfbremse,102.8,361 Dachkonstruktionen,102.8, m²,514.0,514.0
+Innenfarbe Dispersionsfarbe scheuerfest,A1 - A3 Aggregation,Gips-Putz/Anstrich,146.0,"336 Außenwandbekleidungen, innen",68.33, m²,730.0,341.65
+Holz-Flügelrahmen,A1 - A3 Aggregation,Fenster 4,17.0,334 Außentüren und -fenster,0.0, Stück,85.0,0.0

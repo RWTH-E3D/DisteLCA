@@ -1,0 +1,31 @@
+process,module,component,component quantity,cost group DIN 276,mass in kg,unit for component quantity and amount of component on quarter scale,amount building element on quarter scale,mass on quarter scale in kg
+Transportbeton C20/25,A1 - A3 Aggregation,IBO_GDm_01,650.1,351 Deckenkonstruktionen,233203.87, m²,72161.1,25885629.57
+Transportbeton C20/25,A1 - A3 Aggregation,G_Bodenplatte_Stahlbeton-Ortbauweise_C25/30_250mm_2%,216.7,324 Unterböden und Bodenplatten,75177.56, m²,24053.699999999997,8344709.16
+Transportbeton C20/25,A1 - A3 Aggregation,IBO_DAm_07,216.7,361 Dachkonstruktionen,72109.09, m²,24053.699999999997,8004108.989999999
+Mauerziegel,A1 - A3 Aggregation,Mauerziegel_270mm_E,336.0,331 Tragende Außenwände,52164.0, m²,37296.0,5790204.0
+Bewehrungsstahl,A1 - A3 Aggregation,IBO_GDm_01,650.1,351 Deckenkonstruktionen,40826.28, m²,72161.1,4531717.08
+Estrichmörtel-Zementestrich,A1 - A3 Aggregation,IBO_KDo_01,650.1,352 Deckenbeläge,39006.0, m²,72161.1,4329666.0
+Zementestrich,A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,216.7,325 Bodenbeläge,33805.2, m²,24053.699999999997,3752377.1999999997
+Kies 2/32 getrocknet,A1 - A3 Aggregation,IBO_DAm_07,216.7,363 Dachbeläge,24053.7, m²,24053.699999999997,2669960.7
+Kunstharzputz,A1 - A3 Aggregation,IBO_GDm_01,650.1,351 Deckenkonstruktionen,16577.55, m²,72161.1,1840108.0499999998
+Bewehrungsstahl,A1 - A3 Aggregation,IBO_DAm_07,216.7,361 Dachkonstruktionen,15309.86, m²,24053.699999999997,1699394.46
+Kunstharzputz,A1 - A3 Aggregation,WDVS (Roe),336.0,"335 Außenwandbekleidungen, außen",8568.0, m²,37296.0,951048.0
+Gipsputz (Gips),A1 - A3 Aggregation,Gips-Putz/Anstrich,336.0,"336 Außenwandbekleidungen, innen",6048.0, m²,37296.0,671328.0
+Bewehrungsstahl,A1 - A3 Aggregation,G_Bodenplatte_Stahlbeton-Ortbauweise_C25/30_250mm_2%,216.7,324 Unterböden und Bodenplatten,5103.29, m²,24053.699999999997,566465.19
+Kunstharzestrich,A1 - A3 Aggregation,WDVS (Roe),336.0,"335 Außenwandbekleidungen, außen",2419.2, m²,37296.0,268531.19999999995
+Kalk-Gips-Innenputz,A1 - A3 Aggregation,IBO_DAm_07,216.7,361 Dachkonstruktionen,1950.3, m²,24053.699999999997,216483.3
+Voranstrich (Kunstharz),A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,216.7,325 Bodenbeläge,1679.43, m²,24053.699999999997,186416.73
+"Linoleum (Dicke 0,0025 m)",A1 - A3 Aggregation,IBO_KDo_01,650.1,352 Deckenbeläge,1560.24, m²,72161.1,173186.64
+Isolierglas 2-Scheiben,A1 - A3 Aggregation,Fenster 3,25.0,334 Außentüren und -fenster,1400.97, Stück,2775.0,155507.67
+Mineralwolle (Boden-Dämmung),A1 - A3 Aggregation,IBO_KDo_01,650.1,352 Deckenbeläge,1105.17, m²,72161.1,122673.87000000001
+"Bitumenbahnen V 60 (Dicke 0,005 m)",A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,216.7,325 Bodenbeläge,1083.5, m²,24053.699999999997,120268.5
+Blendrahmen PVC-U,A1 - A3 Aggregation,Fenster 3,25.0,334 Außentüren und -fenster,492.8, Stück,2775.0,54700.8
+XPS-Dämmstoff,A1 - A3 Aggregation,IBO_DAm_07,216.7,363 Dachbeläge,346.72, m²,24053.699999999997,38485.920000000006
+"Bitumenbahnen PYE PV 200 S5 (ungeschiefert) (Dicke 0,004 m)",A1 - A3 Aggregation,IBO_DAm_07,216.7,363 Dachbeläge,282.25, m²,24053.699999999997,31329.75
+PE/PP Vlies,A1 - A3 Aggregation,IBO_KDo_01,650.1,352 Deckenbeläge,257.98, m²,72161.1,28635.780000000002
+"Elastomer Fugenbänder, Polyurethan",A1 - A3 Aggregation,Fenster 3,25.0,334 Außentüren und -fenster,188.7, Stück,2775.0,20945.699999999997
+Innenfarbe Dispersionsfarbe scheuerfest,A1 - A3 Aggregation,Gips-Putz/Anstrich,336.0,"336 Außenwandbekleidungen, innen",157.25, m²,37296.0,17454.75
+XPS-Dämmstoff,A1 - A3 Aggregation,G_Bodenplatte_Stahlbeton-Ortbauweise_C25/30_250mm_2%,216.7,324 Unterböden und Bodenplatten,138.69, m²,24053.699999999997,15394.59
+PE-HD mit PP-Vlies zur Abdichtung,A1 - A3 Aggregation,IBO_DAm_07,216.7,363 Dachbeläge,85.81, m²,24053.699999999997,9524.91
+"PE-Noppenfolie zur Abdichtung (Dicke 0,00125 m)",A1 - A3 Aggregation,G_Voranstrich_Kunstharz_5mm,216.7,325 Bodenbeläge,41.61, m²,24053.699999999997,4618.71
+Flügelrahmen PVC-U,A1 - A3 Aggregation,Fenster 3,25.0,334 Außentüren und -fenster,0.0, Stück,2775.0,0.0

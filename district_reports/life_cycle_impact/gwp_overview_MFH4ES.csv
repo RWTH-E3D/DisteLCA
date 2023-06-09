@@ -1,0 +1,9 @@
+area,GWP,unit
+total district (233 buildings x 632.0 m²),11121660.57,kg CO2-eqv./a
+one building,75.52602658,kg CO2-eqv./m²a
+module B6 district scale,10381423.47,kg CO2-eqv./a
+module B6 per building,70.49915435,kg CO2-eqv./m²a
+construction (CG 300 of DIN 276) district scale,740237.1,kg CO2-eqv./a
+construction (CG 300 of DIN 276) per building,5.02687223,kg CO2-eqv./m²a
+systems (CG 400 of DIN 276) district scale,,kg CO2-eqv./a
+systems (CG 400 of DIN 276) per building,,kg CO2-eqv./m²a

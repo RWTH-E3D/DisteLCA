@@ -1,0 +1,15 @@
+project,heating and hot water system,energy for heating and hot water in kWh/m²a,electricity,energy for electricity in kWh/m²a,energy for heating and hot water on quarter scale in kWh/a,energy for electricity on quarter scale in kWh/a
+MFH10ES,"Gas Brennwert (20 - 120 kW, entspr. EnEV)",92.9,Beleuchtung (Verbrauch 1 kWh Strom),0.37,1831059.0,7292.7
+MFH11ES,"Gas Brennwert (20 - 120 kW, entspr. EnEV)",93.7,Beleuchtung (Verbrauch 1 kWh Strom),0.37,1711899.0,6759.9
+MFH2ES,"Gas Niedertemperatur (20 - 120 kW, entspr. EnEV)",277.4,Beleuchtung (Verbrauch 1 kWh Strom),0.37,432744.0,577.2
+MFH3ES,"Gas Niedertemperatur (20 - 120 kW, entspr. EnEV)",337.1,Beleuchtung (Verbrauch 1 kWh Strom),0.37,5710474.0,6267.8
+MFH4AR,"Gas Brennwert (20 - 120 kW, entspr. EnEV)",52.2,Beleuchtung (Verbrauch 1 kWh Strom),0.37,1253635.2,8885.92
+MFH4ES,"Gas Niedertemperatur (120 - 400 kW, entspr. EnEV)",304.8,Beleuchtung (Verbrauch 1 kWh Strom),0.37,44883628.8,54484.72
+MFH4UR,"Gas Brennwert (20 - 120 kW, entspr. EnEV)",118.1,Beleuchtung (Verbrauch 1 kWh Strom),0.37,3284124.8,10288.96
+MFH5AR,"Gas Brennwert (20 - 120 kW, entspr. EnEV)",44.5,Beleuchtung (Verbrauch 1 kWh Strom),0.37,6962025.0,57886.5
+MFH5ES,"Gas Niedertemperatur (120 - 400 kW, entspr. EnEV)",236.8,Beleuchtung (Verbrauch 1 kWh Strom),0.37,48902515.2,76410.18
+MFH6ES,"Gas Niedertemperatur (20 - 120 kW, entspr. EnEV)",245.9,Beleuchtung (Verbrauch 1 kWh Strom),0.37,12801308.1,19261.83
+MFH7ES,"Gas Niedertemperatur (120 - 400 kW, entspr. EnEV)",213.8,Beleuchtung (Verbrauch 1 kWh Strom),0.37,2516853.6,4355.64
+MFH8ES,"Gas Niedertemperatur (120 - 400 kW, entspr. EnEV)",220.8,Beleuchtung (Verbrauch 1 kWh Strom),0.37,2748518.4,4605.76
+MFH9ES,"Gas Brennwert (20 - 120 kW, entspr. EnEV)",133.5,Beleuchtung (Verbrauch 1 kWh Strom),0.37,222945.0,617.9
+SFH12AS,Gas Brennwert < 20 kW,40.1,Beleuchtung (Verbrauch 1 kWh Strom),0.37,779864.8,7195.76
